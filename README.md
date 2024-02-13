@@ -14,13 +14,13 @@ This project implements a simple Library Management System using object-oriented
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/farukkamcici/LibManagementSys.git
+    git clone https://github.com/farukkamcici/LibrarySys.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd LibSys
+    cd LibrarySys
     ```
 
 3. Run the `main.py` file:
